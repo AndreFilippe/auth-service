@@ -8,13 +8,14 @@ Serviço back-end de autenticação de usuários, Será possivel cadastrar e edi
 - Aprender sobre MongoDB.
 - Aprender a integrar o TypeScript com MongoDB.
 - Aprender a implementar autenticação no NodeJS.
+- Entender métodos de autenticações.
 
 ### Status do Projeto
 	🚧  🚀 Em construção...  🚧
 ### Features
 - [ ] Cadastrar de usuário.
 - [ ] Editar de usuário.
-- [ ] Geração de token JWT.
+- [ ] Geração de token.
 
 ### 🛠 Tecnologias utilizadas
 
