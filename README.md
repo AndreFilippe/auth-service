@@ -1,7 +1,7 @@
 # Auth-Service
 
 ### Descrição do Projeto
-<p align="center">Serviço back-end de autenticação de usuários, Será possivel cadastrar e editar um usuário e gerar token de auticação</p>
+Serviço back-end de autenticação de usuários, Será possivel cadastrar e editar um usuário e gerar token de auticação
 
 ### Objeticos com o projeto
 - Aumentar o meu conhecimento em TypeScript.
